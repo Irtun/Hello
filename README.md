@@ -1,12 +1,16 @@
-- 👋 Hi, I’m Emil and my currrent occupation is Cloud engineer ☁️
-- 👀 I’m interested in  Network Security, Automation and all things IT
-- 🌱 I’m currently looking to expand my knowledge in the Software Development field and would try to persue a few certs this year :)
-- 💞️ I’m looking to collaborate on some automation for Network Security and Provisioning
+### Hi there 👋, Hi, My name is Emil
+#### I am a Cloud Engineer, interested in Automation, Infrastructure and Security
+![I am a Cloud Engineer, interested in Automation, Infrastructure and Security](https://github.com/Irtun/Hello/blob/main/irtun.jpg)
 
-Thank you for visiting!
+I am looking for new ways to automate stuff and improve my daily life, both at work and out of it.
+
+I am yet to publish a big project, so stay tuned!
 
 
-<!---
-eevlogiev7/eevlogiev7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Skills: Networks / Linux / Security / Containers / Scripting
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
