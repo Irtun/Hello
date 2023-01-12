@@ -4,7 +4,7 @@
 
 I am looking for new ways to automate stuff and improve my daily life, both at work and out of it.
 
-I am yet to publish a big project, so stay tuned!
+I am yet to publish a meaningful project, so stay tuned!
 
 
 Skills: Networks / Linux / Security / Containers / Scripting
