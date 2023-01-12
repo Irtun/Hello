@@ -1,6 +1,7 @@
 ### Hi there 👋, Hi, My name is Emil
 #### I am a Cloud Engineer, interested in Automation, Infrastructure and Security
 ![I am a Cloud Engineer, interested in Automation, Infrastructure and Security](https://github.com/Irtun/Hello/blob/main/irtun.jpg)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
 
 I am looking for new ways to automate stuff and improve my daily life, both at work and out of it.
 
