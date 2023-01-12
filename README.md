@@ -2,7 +2,7 @@
 #### I am a Cloud Engineer, interested in Automation, Infrastructure and Security
 ![I am a Cloud Engineer, interested in Automation, Infrastructure and Security](https://github.com/Irtun/Hello/blob/main/irtun.jpg)
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Irtun&show_icons=true&theme=radical)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Irtun"/>
+
 
 I am looking for new ways to automate stuff and improve my daily life, both at work and out of it.
 
