@@ -10,7 +10,7 @@ I am yet to publish a meaningful project, so stay tuned!
 
 Skills: Networks / Linux / Security / Containers / Scripting
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on ....TBA
 
 
 
