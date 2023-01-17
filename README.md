@@ -31,12 +31,12 @@ The machine learning and AI have always facinated me and I am looking to pay add
 
 ------------------------------------------------------------------------------------------
 
-#### Contact me
+#### Contact me  [![Github](https://img.shields.io/github/followers/Irtun?label=Follow&style=social)](https://github.com/Irtun)
 
 
 <p>
   <a href="https://www.linkedin.com/in/emil-evlogiev-/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
- [![Github](https://img.shields.io/github/followers/Irtun?label=Follow&style=social)](https://github.com/Irtun)
+
  </p>
