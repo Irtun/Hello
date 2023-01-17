@@ -30,6 +30,7 @@ The machine learning and AI have always facinated me and I am looking to pay add
 
 
 ------------------------------------------------------------------------------------------
-####Contact me:
-------------------------------------------------------------------------------------------
+
+####Contact me
+
 [![Github](https://img.shields.io/github/followers/Irtun?label=Follow&style=social)](https://github.com/Irtun)
