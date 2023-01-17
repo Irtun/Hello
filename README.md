@@ -1,4 +1,4 @@
-### Hi there 👋, Hi, My name is Emil
+#### Hi there 👋, Hi, My name is Emil
 #### I am a Cloud Engineer, interested in Automation, Infrastructure and Security
 ------------------------------------------------------------------------------------------
 ![I am a Cloud Engineer, interested in Automation, Infrastructure and Security](https://github.com/Irtun/Hello/blob/main/emil.jpg)
@@ -7,10 +7,12 @@
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Irtun&show_icons=true&theme=radical)
 
 ------------------------------------------------------------------------------------------
+#### Summary:
 
-I am looking for new ways to automate stuff and improve my daily life, both at work and out of it.
+Infra guy who wants to know it all - from networking, security, cloud and services - to application development and architecture.
 
-I am yet to publish a meaningful project, so stay tuned!
+The machine learning and AI have always facinated me and I am looking to pay additional attention in that area.
+
 
 ------------------------------------------------------------------------------------------
 #### Skills:
@@ -22,10 +24,12 @@ I am yet to publish a meaningful project, so stay tuned!
 ![PowerShell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ------------------------------------------------------------------------------------------
+
+
 - 🔭 I’m currently working on getting some experience with ![Tensor Flow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 
 ------------------------------------------------------------------------------------------
-Contact me:
+####Contact me:
 ------------------------------------------------------------------------------------------
 [![Github](https://img.shields.io/github/followers/Irtun?label=Follow&style=social)](https://github.com/Irtun)
