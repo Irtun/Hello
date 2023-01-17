@@ -1,6 +1,6 @@
 ### Hi there 👋, Hi, My name is Emil
 #### I am a Cloud Engineer, interested in Automation, Infrastructure and Security
-[![Github](https://img.shields.io/github/followers/Irtun?label=Follow&style=social)](https://github.com/Irtun)
+
 ![I am a Cloud Engineer, interested in Automation, Infrastructure and Security](https://github.com/Irtun/Hello/blob/main/irtun.jpg)
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Irtun&show_icons=true&theme=radical)
 
@@ -14,3 +14,5 @@ I am yet to publish a meaningful project, so stay tuned!
 Skills: Networks / Linux / Security / Containers / Scripting
 
 - 🔭 I’m currently working on some Python automation projects.
+
+[![Github](https://img.shields.io/github/followers/Irtun?label=Follow&style=social)](https://github.com/Irtun)
