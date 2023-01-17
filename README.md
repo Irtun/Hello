@@ -12,9 +12,4 @@ I am yet to publish a meaningful project, so stay tuned!
 
 Skills: Networks / Linux / Security / Containers / Scripting
 
-- 🔭 I’m currently working on ....TBA
-
-
-
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+- 🔭 I’m currently working on some Python automation projects.
