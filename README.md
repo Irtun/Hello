@@ -28,10 +28,10 @@ The machine learning and AI have always facinated me and I am looking to pay add
 
 - 🔭 I’m currently working on getting some experience with ![Tensor Flow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-
+[![Github](https://img.shields.io/github/followers/Irtun?label=Follow&style=social)](https://github.com/Irtun)
 ------------------------------------------------------------------------------------------
 
-#### Contact me  [![Github](https://img.shields.io/github/followers/Irtun?label=Follow&style=social)](https://github.com/Irtun)
+#### Contact me  
 
   <a href="https://www.linkedin.com/in//" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
