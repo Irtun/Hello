@@ -22,7 +22,7 @@ I am yet to publish a meaningful project, so stay tuned!
 ![PowerShell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ------------------------------------------------------------------------------------------
-- 🔭 I’m currently working on some Python automation projects.
+- 🔭 I’m currently working on getting some experience with ![Tensor Flow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 
 ------------------------------------------------------------------------------------------
