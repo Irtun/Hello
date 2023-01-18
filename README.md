@@ -1,7 +1,7 @@
 #### Hi there 👋, Hi, My name is Emil
 #### I am a Cloud Engineer, interested in Automation, Infrastructure and Security
 ------------------------------------------------------------------------------------------
-![I am a Cloud Engineer, interested in Automation, Infrastructure and Security](https://github.com/eevlogiev-hub/Hello/blob/main/emil.jpg)
+![I am a Cloud Engineer, interested in Automation, Infrastructure and Security](https://github.com/eevlogiev-hub/eevlogiev-hub/blob/main/emil.jpg)
 ------------------------------------------------------------------------------------------
 ### My GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eevlogiev-hub&show_icons=true&theme=radical)
